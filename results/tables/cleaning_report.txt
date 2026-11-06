@@ -1,0 +1,12 @@
+raw records: 434,614
+weekly records: 338,558 (monthly and yearly rows dropped)
+weekly ex-packaging records: 294,744
+in study period 2015-01-05 to 2026-10-19: 146,115
+dates that are not a monday: 0
+unit: all prices were €/100 kg, converted to €/kg
+duplicates removed: 1,707 (of which with a different price: 0)
+series: 650, weeks per series: 616
+missing weeks: 255,992, filled (gap <= 3 weeks): 6,101
+flagged as possible outlier (>3x or <1/3 of local level): 333
+flagged as stale (same price 4+ weeks in a row): 18,652
+series with max 20% missing weeks: 93 (16 products, 15 countries)
