@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+
+# data is downloaded and made by the scripts, so no need to save it
+data/raw/
+data/interim/
+data/processed/
