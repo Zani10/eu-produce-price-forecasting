@@ -1,0 +1,30 @@
+series_id,country,product,variety
+BE | Apples - All types and varieties,BE,Apples,Apples - All types and varieties
+DE | Apples - Jonagold,DE,Apples,Apples - Jonagold
+ES | Apples - Golden delicious,ES,Apples,Apples - Golden delicious
+FR | Apples - All types and varieties,FR,Apples,Apples - All types and varieties
+IT | Apples - All types and varieties,IT,Apples,Apples - All types and varieties
+NL | Apples - All types and varieties,NL,Apples,Apples - All types and varieties
+BE | Cauliflowers - All types and varieties,BE,Cauliflowers,Cauliflowers - All types and varieties
+ES | Cauliflowers - All types and varieties,ES,Cauliflowers,Cauliflowers - All types and varieties
+FR | Cauliflowers - All types and varieties,FR,Cauliflowers,Cauliflowers - All types and varieties
+ES | Courgettes - All types and varieties,ES,Courgettes,Courgettes - All types and varieties
+IT | Courgettes - All types and varieties,IT,Courgettes,Courgettes - All types and varieties
+ES | Cucumbers - All types and varieties,ES,Cucumbers,Cucumbers - All types and varieties
+IT | Cucumbers - All types and varieties,IT,Cucumbers,Cucumbers - All types and varieties
+ES | Egg Plants - All types and varieties,ES,Egg Plants,Egg Plants - All types and varieties
+IT | Egg Plants - All types and varieties,IT,Egg Plants,Egg Plants - All types and varieties
+ES | Lemons - All types and varieties,ES,Lemons,Lemons - All types and varieties
+IT | Lemons - All types and varieties,IT,Lemons,Lemons - All types and varieties
+ES | Lettuces - All types and varieties,ES,Lettuces,Lettuces - All types and varieties
+IT | Lettuces - All types and varieties,IT,Lettuces,Lettuces - All types and varieties
+BE | Pears - All types and varieties,BE,Pears,Pears - All types and varieties
+ES | Pears - All types and varieties,ES,Pears,Pears - All types and varieties
+NL | Pears - All types and varieties,NL,Pears,Pears - All types and varieties
+ES | Peppers - All types and varieties,ES,Peppers,Peppers - All types and varieties
+IT | Peppers - All types and varieties,IT,Peppers,Peppers - All types and varieties
+BE | Strawberries - All types and varieties,BE,Strawberries,Strawberries - All types and varieties
+BE | Tomatoes - Round,BE,Tomatoes,Tomatoes - Round
+ES | Tomatoes - Round,ES,Tomatoes,Tomatoes - Round
+IT | Tomatoes - Cherry/Special,IT,Tomatoes,Tomatoes - Cherry/Special
+"NL | Tomatoes - Trusses=Vine/""Grappes""",NL,Tomatoes,"Tomatoes - Trusses=Vine/""Grappes"""
