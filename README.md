@@ -20,4 +20,3 @@ python src/data/fetch_eu_prices.py
 - src/assistant: the assistant and its tools
 - notebooks: data exploration and experiments
 - results: figures and tables for the thesis
-- thesis: thesis drafts
