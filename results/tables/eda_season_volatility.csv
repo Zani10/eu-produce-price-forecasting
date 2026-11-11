@@ -1,0 +1,30 @@
+name,seasonality,volatility
+BE Apples,0.07,0.207
+BE Cauliflowers,0.1,0.402
+BE Pears,0.04,0.249
+BE Strawberries,0.63,0.291
+BE Tomatoes,0.7,0.234
+DE Apples,0.06,0.076
+ES Apples,0.35,0.043
+ES Cauliflowers,0.12,0.146
+ES Courgettes,0.42,0.293
+ES Cucumbers,0.5,0.27
+ES Egg Plants,0.48,0.32
+ES Lemons,0.26,0.113
+ES Lettuces,0.06,0.134
+ES Pears,0.29,0.062
+ES Peppers,0.15,0.133
+ES Tomatoes,0.32,0.155
+FR Apples,0.28,0.045
+FR Cauliflowers,0.17,0.285
+IT Apples,0.08,0.052
+IT Courgettes,0.6,0.163
+IT Cucumbers,0.51,0.197
+IT Egg Plants,0.67,0.18
+IT Lemons,0.59,0.066
+IT Lettuces,0.18,0.116
+IT Peppers,0.36,0.14
+IT Tomatoes,0.58,0.121
+NL Apples,0.25,0.149
+NL Pears,0.48,0.11
+NL Tomatoes,0.73,0.221
