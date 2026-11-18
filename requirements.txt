@@ -7,3 +7,8 @@ mlforecast
 lightgbm
 scikit-learn
 ipykernel
+openai
+python-dotenv
+torch
+chronos-forecasting
+scipy

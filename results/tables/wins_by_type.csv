@@ -1,0 +1,5 @@
+type,ARIMA,Chronos2,Chronos2-FT,ETS,LightGBM,NBEATS,Naive
+greenhouse,2,5,3,0,0,2,0
+open field,0,1,1,0,1,2,0
+storable,3,4,1,2,0,0,1
+strawberries,0,1,0,0,0,0,0
