@@ -1,0 +1,233 @@
+series_id,model,origin,h,week,y_pred,q10,q50,q90
+BE | Apples - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,0.6861,0.552,0.6861,0.8202
+BE | Apples - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,0.6775,0.536,0.6775,0.8189
+BE | Apples - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,0.6727,0.5244,0.6727,0.8211
+BE | Apples - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,0.6714,0.5164,0.6714,0.8264
+BE | Apples - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,0.6725,0.5111,0.6725,0.8339
+BE | Apples - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,0.6753,0.5079,0.6753,0.8428
+BE | Apples - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,0.6792,0.5058,0.6792,0.8526
+BE | Apples - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,0.6837,0.5046,0.6837,0.8628
+BE | Cauliflowers - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,0.9619,0.489,0.9619,1.4348
+BE | Cauliflowers - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,0.98,0.3746,0.98,1.5854
+BE | Cauliflowers - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.0438,0.4127,1.0438,1.675
+BE | Cauliflowers - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.1074,0.4704,1.1074,1.7445
+BE | Cauliflowers - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.1041,0.463,1.1041,1.7452
+BE | Cauliflowers - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.1166,0.4701,1.1166,1.7631
+BE | Cauliflowers - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.1779,0.5312,1.1779,1.8246
+BE | Cauliflowers - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.2138,0.5667,1.2138,1.8609
+BE | Pears - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,0.7573,0.5763,0.7573,0.9382
+BE | Pears - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,0.7464,0.5518,0.7464,0.9409
+BE | Pears - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,0.7389,0.5408,0.7389,0.937
+BE | Pears - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,0.7461,0.5438,0.7461,0.9485
+BE | Pears - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,0.7526,0.5418,0.7526,0.9634
+BE | Pears - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,0.7462,0.5164,0.7462,0.976
+BE | Pears - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,0.738,0.4957,0.738,0.9804
+BE | Pears - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,0.7388,0.4904,0.7388,0.9872
+BE | Strawberries - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,6.1969,4.5009,6.1969,7.8928
+BE | Strawberries - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,6.8098,4.8654,6.8098,8.7542
+BE | Strawberries - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,7.2319,5.2346,7.2319,9.2292
+BE | Strawberries - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,7.5375,5.5345,7.5375,9.5404
+BE | Strawberries - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,7.7968,5.7937,7.7968,9.7999
+BE | Strawberries - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,8.0283,6.0244,8.0283,10.0322
+BE | Strawberries - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,8.2476,6.2435,8.2476,10.2516
+BE | Strawberries - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,8.4704,6.4663,8.4704,10.4745
+BE | Tomatoes - Round,ARIMA,2026-10-19,1,2026-10-26,1.4496,1.1561,1.4496,1.743
+BE | Tomatoes - Round,ARIMA,2026-10-19,2,2026-11-02,1.3945,1.024,1.3945,1.7651
+BE | Tomatoes - Round,ARIMA,2026-10-19,3,2026-11-09,1.3901,0.9892,1.3901,1.791
+BE | Tomatoes - Round,ARIMA,2026-10-19,4,2026-11-16,1.4201,1.0062,1.4201,1.8341
+BE | Tomatoes - Round,ARIMA,2026-10-19,5,2026-11-23,1.494,1.0718,1.494,1.9163
+BE | Tomatoes - Round,ARIMA,2026-10-19,6,2026-11-30,1.6047,1.1769,1.6047,2.0325
+BE | Tomatoes - Round,ARIMA,2026-10-19,7,2026-12-07,1.7357,1.3043,1.7357,2.1672
+BE | Tomatoes - Round,ARIMA,2026-10-19,8,2026-12-14,1.8677,1.4339,1.8677,2.3016
+DE | Apples - Jonagold,ARIMA,2026-10-19,1,2026-10-26,0.4254,0.3769,0.4254,0.4738
+DE | Apples - Jonagold,ARIMA,2026-10-19,2,2026-11-02,0.4302,0.3746,0.4302,0.4858
+DE | Apples - Jonagold,ARIMA,2026-10-19,3,2026-11-09,0.4335,0.37,0.4335,0.4969
+DE | Apples - Jonagold,ARIMA,2026-10-19,4,2026-11-16,0.4357,0.364,0.4357,0.5074
+DE | Apples - Jonagold,ARIMA,2026-10-19,5,2026-11-23,0.4373,0.3573,0.4373,0.5174
+DE | Apples - Jonagold,ARIMA,2026-10-19,6,2026-11-30,0.4387,0.3502,0.4387,0.5272
+DE | Apples - Jonagold,ARIMA,2026-10-19,7,2026-12-07,0.44,0.3432,0.44,0.5368
+DE | Apples - Jonagold,ARIMA,2026-10-19,8,2026-12-14,0.4413,0.3363,0.4413,0.5463
+ES | Apples - Golden delicious,ARIMA,2026-10-19,1,2026-10-26,1.3236,1.2762,1.3236,1.371
+ES | Apples - Golden delicious,ARIMA,2026-10-19,2,2026-11-02,1.3239,1.2628,1.3239,1.385
+ES | Apples - Golden delicious,ARIMA,2026-10-19,3,2026-11-09,1.3222,1.2527,1.3222,1.3917
+ES | Apples - Golden delicious,ARIMA,2026-10-19,4,2026-11-16,1.3174,1.2417,1.3174,1.3931
+ES | Apples - Golden delicious,ARIMA,2026-10-19,5,2026-11-23,1.3094,1.2286,1.3094,1.3902
+ES | Apples - Golden delicious,ARIMA,2026-10-19,6,2026-11-30,1.2989,1.2138,1.2989,1.3841
+ES | Apples - Golden delicious,ARIMA,2026-10-19,7,2026-12-07,1.2873,1.1982,1.2873,1.3764
+ES | Apples - Golden delicious,ARIMA,2026-10-19,8,2026-12-14,1.276,1.1832,1.276,1.3688
+ES | Cauliflowers - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.1145,0.9802,1.1145,1.2488
+ES | Cauliflowers - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.1463,0.9415,1.1463,1.3511
+ES | Cauliflowers - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.1914,0.9452,1.1914,1.4377
+ES | Cauliflowers - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.2377,0.9676,1.2377,1.5077
+ES | Cauliflowers - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.2807,0.9968,1.2807,1.5645
+ES | Cauliflowers - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.3186,1.0263,1.3186,1.6108
+ES | Cauliflowers - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.3502,1.0526,1.3502,1.6479
+ES | Cauliflowers - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.3748,1.0734,1.3748,1.6761
+ES | Courgettes - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,0.8537,0.5589,0.8537,1.1485
+ES | Courgettes - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,0.8391,0.4011,0.8391,1.2772
+ES | Courgettes - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,0.7912,0.2989,0.7912,1.2834
+ES | Courgettes - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,0.775,0.2709,0.775,1.2791
+ES | Courgettes - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,0.8111,0.3063,0.8111,1.3159
+ES | Courgettes - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,0.8789,0.373,0.8789,1.3849
+ES | Courgettes - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,0.9737,0.4663,0.9737,1.4811
+ES | Courgettes - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.0848,0.576,1.0848,1.5936
+ES | Cucumbers - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.2445,1.0307,1.2445,1.4583
+ES | Cucumbers - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.2183,0.9047,1.2183,1.5319
+ES | Cucumbers - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.2125,0.876,1.2125,1.549
+ES | Cucumbers - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.1972,0.8525,1.1972,1.5419
+ES | Cucumbers - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.1714,0.8205,1.1714,1.5222
+ES | Cucumbers - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.1469,0.7906,1.1469,1.5031
+ES | Cucumbers - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.1368,0.7772,1.1368,1.4964
+ES | Cucumbers - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.148,0.7863,1.148,1.5096
+ES | Egg Plants - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,0.5425,0.2414,0.5425,0.8436
+ES | Egg Plants - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,0.597,0.1484,0.597,1.0456
+ES | Egg Plants - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,0.672,0.1724,0.672,1.1716
+ES | Egg Plants - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,0.7765,0.2681,0.7765,1.2849
+ES | Egg Plants - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,0.9123,0.4034,0.9123,1.4212
+ES | Egg Plants - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.069,0.5599,1.069,1.5781
+ES | Egg Plants - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.227,0.7164,1.227,1.7375
+ES | Egg Plants - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.3644,0.8495,1.3644,1.8794
+ES | Lemons - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.3318,1.1569,1.3318,1.5067
+ES | Lemons - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.3448,1.1248,1.3448,1.5648
+ES | Lemons - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.3332,1.0867,1.3332,1.5796
+ES | Lemons - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.3076,1.042,1.3076,1.5731
+ES | Lemons - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.2758,0.9946,1.2758,1.5571
+ES | Lemons - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.2439,0.9489,1.2439,1.5389
+ES | Lemons - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.2159,0.9083,1.2159,1.5235
+ES | Lemons - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.1946,0.8752,1.1946,1.514
+ES | Lettuces - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,0.8429,0.6783,0.8429,1.0075
+ES | Lettuces - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,0.8589,0.6099,0.8589,1.108
+ES | Lettuces - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,0.9203,0.619,0.9203,1.2217
+ES | Lettuces - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,0.965,0.6368,0.965,1.2933
+ES | Lettuces - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.0057,0.6621,1.0057,1.3492
+ES | Lettuces - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.0513,0.6986,1.0513,1.404
+ES | Lettuces - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.1068,0.7482,1.1068,1.4653
+ES | Lettuces - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.1724,0.81,1.1724,1.5348
+ES | Pears - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.538,1.4421,1.538,1.634
+ES | Pears - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.5352,1.4233,1.5352,1.647
+ES | Pears - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.5302,1.4044,1.5302,1.656
+ES | Pears - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.5234,1.3851,1.5234,1.6617
+ES | Pears - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.5153,1.3655,1.5153,1.665
+ES | Pears - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.5065,1.3461,1.5065,1.6669
+ES | Pears - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.498,1.3276,1.498,1.6684
+ES | Pears - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.4906,1.3107,1.4906,1.6704
+ES | Peppers - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.7382,1.5493,1.7382,1.927
+ES | Peppers - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.6413,1.3845,1.6413,1.8981
+ES | Peppers - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.574,1.2816,1.574,1.8664
+ES | Peppers - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.5324,1.2188,1.5324,1.8459
+ES | Peppers - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.5103,1.1833,1.5103,1.8373
+ES | Peppers - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.5007,1.1648,1.5007,1.8367
+ES | Peppers - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.4967,1.1546,1.4967,1.8388
+ES | Peppers - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.4929,1.1464,1.4929,1.8393
+ES | Tomatoes - Round,ARIMA,2026-10-19,1,2026-10-26,1.7134,1.5499,1.7134,1.877
+ES | Tomatoes - Round,ARIMA,2026-10-19,2,2026-11-02,1.5239,1.2801,1.5239,1.7677
+ES | Tomatoes - Round,ARIMA,2026-10-19,3,2026-11-09,1.3903,1.1143,1.3903,1.6663
+ES | Tomatoes - Round,ARIMA,2026-10-19,4,2026-11-16,1.3051,1.0132,1.3051,1.597
+ES | Tomatoes - Round,ARIMA,2026-10-19,5,2026-11-23,1.262,0.9614,1.262,1.5626
+ES | Tomatoes - Round,ARIMA,2026-10-19,6,2026-11-30,1.2529,0.9471,1.2529,1.5588
+ES | Tomatoes - Round,ARIMA,2026-10-19,7,2026-12-07,1.2677,0.9584,1.2677,1.577
+ES | Tomatoes - Round,ARIMA,2026-10-19,8,2026-12-14,1.2945,0.9828,1.2945,1.6063
+FR | Apples - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.5086,1.4365,1.5086,1.5807
+FR | Apples - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.4922,1.3985,1.4922,1.5859
+FR | Apples - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.48,1.3736,1.48,1.5863
+FR | Apples - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.4694,1.3546,1.4694,1.5842
+FR | Apples - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.459,1.3381,1.459,1.5798
+FR | Apples - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.4478,1.3225,1.4478,1.5732
+FR | Apples - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.4364,1.3074,1.4364,1.5653
+FR | Apples - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.4254,1.2935,1.4254,1.5573
+FR | Cauliflowers - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,0.7184,0.4413,0.7184,0.9954
+FR | Cauliflowers - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,0.7388,0.3614,0.7388,1.1162
+FR | Cauliflowers - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,0.7495,0.3418,0.7495,1.1573
+FR | Cauliflowers - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,0.7637,0.3456,0.7637,1.1819
+FR | Cauliflowers - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,0.7802,0.357,0.7802,1.2033
+FR | Cauliflowers - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,0.7966,0.3706,0.7966,1.2227
+FR | Cauliflowers - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,0.8127,0.3849,0.8127,1.2404
+FR | Cauliflowers - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,0.8286,0.3999,0.8286,1.2574
+IT | Apples - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,0.9683,0.9235,0.9683,1.013
+IT | Apples - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,0.9695,0.9157,0.9695,1.0233
+IT | Apples - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,0.97,0.9085,0.97,1.0315
+IT | Apples - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,0.9699,0.9015,0.9699,1.0383
+IT | Apples - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,0.9693,0.8947,0.9693,1.0439
+IT | Apples - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,0.9684,0.888,0.9684,1.0487
+IT | Apples - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,0.9673,0.8816,0.9673,1.053
+IT | Apples - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,0.9662,0.8754,0.9662,1.057
+IT | Courgettes - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.5895,1.3168,1.5895,1.8621
+IT | Courgettes - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.681,1.3046,1.681,2.0574
+IT | Courgettes - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.7638,1.3464,1.7638,2.1813
+IT | Courgettes - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.801,1.3535,1.801,2.2484
+IT | Courgettes - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.9165,1.447,1.9165,2.386
+IT | Courgettes - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.9905,1.5092,1.9905,2.4717
+IT | Courgettes - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,2.1115,1.6173,2.1115,2.6056
+IT | Courgettes - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,2.2423,1.7406,2.2423,2.744
+IT | Cucumbers - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,0.8096,0.5794,0.8096,1.0399
+IT | Cucumbers - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,0.9399,0.6535,0.9399,1.2263
+IT | Cucumbers - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.0482,0.7348,1.0482,1.3616
+IT | Cucumbers - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.1386,0.8109,1.1386,1.4664
+IT | Cucumbers - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.2136,0.8777,1.2136,1.5495
+IT | Cucumbers - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.2747,0.934,1.2747,1.6154
+IT | Cucumbers - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.3239,0.9802,1.3239,1.6675
+IT | Cucumbers - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.3633,1.0176,1.3633,1.7089
+IT | Egg Plants - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.1102,0.8227,1.1102,1.3976
+IT | Egg Plants - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.1537,0.7472,1.1537,1.5602
+IT | Egg Plants - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.2156,0.7177,1.2156,1.7134
+IT | Egg Plants - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.2994,0.7246,1.2994,1.8743
+IT | Egg Plants - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.4047,0.762,1.4047,2.0474
+IT | Egg Plants - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.5261,0.8221,1.5261,2.2302
+IT | Egg Plants - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.6542,0.8937,1.6542,2.4146
+IT | Egg Plants - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.7765,0.9635,1.7765,2.5894
+IT | Lemons - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.5913,1.4998,1.5913,1.6828
+IT | Lemons - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.5689,1.4547,1.5689,1.6831
+IT | Lemons - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.5466,1.4135,1.5466,1.6796
+IT | Lemons - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.5244,1.3748,1.5244,1.6739
+IT | Lemons - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.5024,1.3379,1.5024,1.6668
+IT | Lemons - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.4806,1.3025,1.4806,1.6586
+IT | Lemons - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.4592,1.2685,1.4592,1.6499
+IT | Lemons - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.4382,1.2356,1.4382,1.6407
+IT | Lettuces - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.72,1.5995,1.72,1.8405
+IT | Lettuces - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.6904,1.52,1.6904,1.8608
+IT | Lettuces - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.6625,1.4538,1.6625,1.8712
+IT | Lettuces - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.6394,1.3985,1.6394,1.8804
+IT | Lettuces - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.6239,1.3545,1.6239,1.8933
+IT | Lettuces - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.6178,1.3227,1.6178,1.9129
+IT | Lettuces - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.6216,1.3028,1.6216,1.9403
+IT | Lettuces - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.6342,1.2934,1.6342,1.9749
+IT | Peppers - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,2.2922,2.0475,2.2922,2.5369
+IT | Peppers - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,2.2267,1.9073,2.2267,2.546
+IT | Peppers - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,2.1673,1.8042,2.1673,2.5303
+IT | Peppers - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,2.1167,1.7255,2.1167,2.5079
+IT | Peppers - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,2.0783,1.668,2.0783,2.4886
+IT | Peppers - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,2.0549,1.6314,2.0549,2.4785
+IT | Peppers - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,2.0479,1.6148,2.0479,2.481
+IT | Peppers - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,2.0565,1.6165,2.0565,2.4966
+IT | Tomatoes - Cherry/Special,ARIMA,2026-10-19,1,2026-10-26,4.453,4.114,4.453,4.792
+IT | Tomatoes - Cherry/Special,ARIMA,2026-10-19,2,2026-11-02,4.4447,3.9653,4.4447,4.9241
+IT | Tomatoes - Cherry/Special,ARIMA,2026-10-19,3,2026-11-09,4.43,3.8428,4.43,5.0172
+IT | Tomatoes - Cherry/Special,ARIMA,2026-10-19,4,2026-11-16,4.4224,3.7444,4.4224,5.1004
+IT | Tomatoes - Cherry/Special,ARIMA,2026-10-19,5,2026-11-23,4.4323,3.6742,4.4323,5.1903
+IT | Tomatoes - Cherry/Special,ARIMA,2026-10-19,6,2026-11-30,4.4648,3.6344,4.4648,5.2952
+IT | Tomatoes - Cherry/Special,ARIMA,2026-10-19,7,2026-12-07,4.5189,3.622,4.5189,5.4159
+IT | Tomatoes - Cherry/Special,ARIMA,2026-10-19,8,2026-12-14,4.5878,3.6289,4.5878,5.5467
+NL | Apples - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,0.7835,0.6448,0.7835,0.9221
+NL | Apples - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,0.774,0.6006,0.774,0.9474
+NL | Apples - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,0.7711,0.5786,0.7711,0.9636
+NL | Apples - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,0.771,0.5657,0.771,0.9763
+NL | Apples - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,0.7708,0.5557,0.7708,0.9858
+NL | Apples - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,0.7687,0.5455,0.7687,0.992
+NL | Apples - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,0.7645,0.534,0.7645,0.9949
+NL | Apples - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,0.7586,0.5215,0.7586,0.9957
+NL | Pears - All types and varieties,ARIMA,2026-10-19,1,2026-10-26,1.146,1.0359,1.146,1.2561
+NL | Pears - All types and varieties,ARIMA,2026-10-19,2,2026-11-02,1.161,1.0186,1.161,1.3035
+NL | Pears - All types and varieties,ARIMA,2026-10-19,3,2026-11-09,1.1739,1.0083,1.1739,1.3395
+NL | Pears - All types and varieties,ARIMA,2026-10-19,4,2026-11-16,1.1818,0.9982,1.1818,1.3653
+NL | Pears - All types and varieties,ARIMA,2026-10-19,5,2026-11-23,1.1834,0.9854,1.1834,1.3815
+NL | Pears - All types and varieties,ARIMA,2026-10-19,6,2026-11-30,1.1793,0.9692,1.1793,1.3894
+NL | Pears - All types and varieties,ARIMA,2026-10-19,7,2026-12-07,1.1713,0.951,1.1713,1.3917
+NL | Pears - All types and varieties,ARIMA,2026-10-19,8,2026-12-14,1.162,0.9329,1.162,1.3912
+"NL | Tomatoes - Trusses=Vine/""Grappes""",ARIMA,2026-10-19,1,2026-10-26,1.7445,1.571,1.7445,1.918
+"NL | Tomatoes - Trusses=Vine/""Grappes""",ARIMA,2026-10-19,2,2026-11-02,1.6721,1.4111,1.6721,1.9332
+"NL | Tomatoes - Trusses=Vine/""Grappes""",ARIMA,2026-10-19,3,2026-11-09,1.5956,1.2764,1.5956,1.9149
+"NL | Tomatoes - Trusses=Vine/""Grappes""",ARIMA,2026-10-19,4,2026-11-16,1.5646,1.2156,1.5646,1.9136
+"NL | Tomatoes - Trusses=Vine/""Grappes""",ARIMA,2026-10-19,5,2026-11-23,1.5629,1.1913,1.5629,1.9346
+"NL | Tomatoes - Trusses=Vine/""Grappes""",ARIMA,2026-10-19,6,2026-11-30,1.5988,1.2116,1.5988,1.9861
+"NL | Tomatoes - Trusses=Vine/""Grappes""",ARIMA,2026-10-19,7,2026-12-07,1.6576,1.2571,1.6576,2.0582
+"NL | Tomatoes - Trusses=Vine/""Grappes""",ARIMA,2026-10-19,8,2026-12-14,1.7376,1.3271,1.7376,2.1481
