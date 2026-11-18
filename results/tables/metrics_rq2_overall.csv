@@ -1,0 +1,5 @@
+model,n,MASE,MAE,RMSE,WQL,coverage_80
+LGBM-direct,5632,0.7014,0.2468,0.4445,,
+LGBM-direct+weather-light,5632,0.7021,0.2477,0.4514,,
+LGBM-direct+oracle,5632,0.7022,0.2444,0.441,,
+LGBM-direct+weather,5632,0.7136,0.2504,0.4582,,
