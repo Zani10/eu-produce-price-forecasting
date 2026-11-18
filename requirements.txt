@@ -2,3 +2,8 @@ pandas
 pyarrow
 requests
 matplotlib
+statsforecast
+mlforecast
+lightgbm
+scikit-learn
+ipykernel

@@ -1,0 +1,146 @@
+model,series_id,n,MASE,MAE,RMSE,WQL,coverage_80
+ARIMA,BE | Apples - All types and varieties,200,0.5242,0.1092,0.1396,0.0841,0.78
+ARIMA,BE | Cauliflowers - All types and varieties,174,0.6321,0.3366,0.4359,0.18,0.8736
+ARIMA,BE | Pears - All types and varieties,196,0.3449,0.0868,0.1155,0.0613,0.9388
+ARIMA,BE | Strawberries - All types and varieties,200,0.6035,1.0494,1.4355,0.1062,0.88
+ARIMA,BE | Tomatoes - Round,198,0.8289,0.2789,0.3788,0.1209,0.7677
+ARIMA,DE | Apples - Jonagold,190,0.1958,0.0384,0.0629,0.0475,0.8895
+ARIMA,ES | Apples - Golden delicious,200,0.3764,0.0507,0.0703,0.0308,0.755
+ARIMA,ES | Cauliflowers - All types and varieties,188,0.7609,0.1805,0.228,0.0989,0.6915
+ARIMA,ES | Courgettes - All types and varieties,200,0.6372,0.2689,0.3977,0.2322,0.875
+ARIMA,ES | Cucumbers - All types and varieties,198,0.9938,0.2939,0.379,0.2028,0.7273
+ARIMA,ES | Egg Plants - All types and varieties,200,0.8415,0.3197,0.4254,0.2042,0.745
+ARIMA,ES | Lemons - All types and varieties,186,0.6291,0.1743,0.2532,0.0822,0.8333
+ARIMA,ES | Lettuces - All types and varieties,198,0.922,0.2515,0.3191,0.1222,0.6566
+ARIMA,ES | Pears - All types and varieties,200,1.0988,0.1364,0.1873,0.0649,0.595
+ARIMA,ES | Peppers - All types and varieties,198,0.9617,0.2554,0.3129,0.1101,0.6061
+ARIMA,ES | Tomatoes - Round,198,0.936,0.2177,0.315,0.1449,0.7172
+ARIMA,FR | Apples - All types and varieties,178,0.3945,0.0494,0.071,0.0266,0.8764
+ARIMA,FR | Cauliflowers - All types and varieties,198,0.8916,0.3208,0.4146,0.2274,0.702
+ARIMA,IT | Apples - All types and varieties,198,0.1749,0.0195,0.0307,0.0167,0.9646
+ARIMA,IT | Courgettes - All types and varieties,200,0.5558,0.216,0.2744,0.0899,0.93
+ARIMA,IT | Cucumbers - All types and varieties,196,0.5864,0.186,0.2358,0.0993,0.8367
+ARIMA,IT | Egg Plants - All types and varieties,200,0.789,0.2412,0.3605,0.1345,0.815
+ARIMA,IT | Lemons - All types and varieties,200,0.3534,0.0699,0.0919,0.0344,0.935
+ARIMA,IT | Lettuces - All types and varieties,200,0.5515,0.1232,0.1659,0.0625,0.9
+ARIMA,IT | Peppers - All types and varieties,200,0.786,0.2966,0.3744,0.1134,0.67
+ARIMA,IT | Tomatoes - Cherry/Special,200,0.8348,0.4257,0.662,0.1152,0.755
+ARIMA,NL | Apples - All types and varieties,152,0.6301,0.1643,0.2107,0.1064,0.6776
+ARIMA,NL | Pears - All types and varieties,186,0.439,0.1028,0.1356,0.0493,0.871
+ARIMA,"NL | Tomatoes - Trusses=Vine/""Grappes""",200,0.8437,0.2305,0.3259,0.1183,0.805
+ETS,BE | Apples - All types and varieties,200,0.5358,0.1116,0.1409,0.0874,0.72
+ETS,BE | Cauliflowers - All types and varieties,174,0.8214,0.4384,0.6017,0.2523,0.8851
+ETS,BE | Pears - All types and varieties,196,0.4064,0.1022,0.1382,0.0749,0.949
+ETS,BE | Strawberries - All types and varieties,200,0.7075,1.2309,1.639,0.1281,0.91
+ETS,BE | Tomatoes - Round,198,0.9836,0.3313,0.4334,0.1374,0.798
+ETS,DE | Apples - Jonagold,190,0.2027,0.0398,0.0638,0.0479,0.8632
+ETS,ES | Apples - Golden delicious,200,0.4186,0.0564,0.074,0.0325,0.805
+ETS,ES | Cauliflowers - All types and varieties,188,0.7492,0.1778,0.2289,0.0997,0.7287
+ETS,ES | Courgettes - All types and varieties,200,0.7691,0.3251,0.4752,0.2808,0.83
+ETS,ES | Cucumbers - All types and varieties,198,0.901,0.2668,0.3502,0.1828,0.7626
+ETS,ES | Egg Plants - All types and varieties,200,0.9105,0.346,0.4562,0.2236,0.815
+ETS,ES | Lemons - All types and varieties,186,0.4918,0.1368,0.204,0.069,0.8387
+ETS,ES | Lettuces - All types and varieties,198,0.8016,0.2195,0.2895,0.1063,0.7626
+ETS,ES | Pears - All types and varieties,200,1.1412,0.1417,0.2012,0.0662,0.68
+ETS,ES | Peppers - All types and varieties,198,0.9197,0.2441,0.3067,0.1031,0.7323
+ETS,ES | Tomatoes - Round,198,1.1183,0.2602,0.3563,0.1618,0.7424
+ETS,FR | Apples - All types and varieties,178,0.3169,0.0397,0.0555,0.0219,0.9382
+ETS,FR | Cauliflowers - All types and varieties,198,0.918,0.3301,0.4205,0.241,0.7475
+ETS,IT | Apples - All types and varieties,198,0.1533,0.0171,0.0278,0.0157,0.9495
+ETS,IT | Courgettes - All types and varieties,200,0.5459,0.212,0.2788,0.0959,0.95
+ETS,IT | Cucumbers - All types and varieties,196,0.6158,0.1955,0.2456,0.1067,0.8827
+ETS,IT | Egg Plants - All types and varieties,200,0.893,0.2731,0.3754,0.1437,0.83
+ETS,IT | Lemons - All types and varieties,200,0.3542,0.07,0.0864,0.0322,0.92
+ETS,IT | Lettuces - All types and varieties,200,0.5281,0.118,0.1518,0.0578,0.89
+ETS,IT | Peppers - All types and varieties,200,0.9076,0.3426,0.4329,0.1249,0.82
+ETS,IT | Tomatoes - Cherry/Special,200,0.915,0.4674,0.7163,0.1285,0.75
+ETS,NL | Apples - All types and varieties,152,0.6401,0.1669,0.2258,0.1126,0.7237
+ETS,NL | Pears - All types and varieties,186,0.4396,0.1031,0.1417,0.0513,0.8656
+ETS,"NL | Tomatoes - Trusses=Vine/""Grappes""",200,0.8308,0.2269,0.3257,0.1176,0.8
+LightGBM,BE | Apples - All types and varieties,200,0.5578,0.1164,0.1478,0.0988,0.575
+LightGBM,BE | Cauliflowers - All types and varieties,174,0.7032,0.3748,0.5042,0.225,0.5575
+LightGBM,BE | Pears - All types and varieties,196,0.4214,0.1059,0.14,0.0739,0.5765
+LightGBM,BE | Strawberries - All types and varieties,200,0.8659,1.5073,2.0071,0.1669,0.61
+LightGBM,BE | Tomatoes - Round,198,1.0681,0.3599,0.5127,0.1866,0.5455
+LightGBM,DE | Apples - Jonagold,190,0.3485,0.0684,0.1037,0.0845,0.6
+LightGBM,ES | Apples - Golden delicious,200,0.4427,0.0595,0.0797,0.0382,0.605
+LightGBM,ES | Cauliflowers - All types and varieties,188,0.748,0.1778,0.2288,0.1065,0.5957
+LightGBM,ES | Courgettes - All types and varieties,200,0.7063,0.2981,0.4504,0.2827,0.605
+LightGBM,ES | Cucumbers - All types and varieties,198,1.1035,0.3266,0.4101,0.2344,0.5556
+LightGBM,ES | Egg Plants - All types and varieties,200,0.9243,0.3504,0.4958,0.2545,0.655
+LightGBM,ES | Lemons - All types and varieties,186,0.7752,0.2149,0.3158,0.1077,0.672
+LightGBM,ES | Lettuces - All types and varieties,198,0.7064,0.1931,0.2492,0.1049,0.5758
+LightGBM,ES | Pears - All types and varieties,200,1.3211,0.162,0.2154,0.0783,0.615
+LightGBM,ES | Peppers - All types and varieties,198,1.0259,0.2717,0.3415,0.1325,0.5253
+LightGBM,ES | Tomatoes - Round,198,1.0011,0.2329,0.3448,0.1749,0.6162
+LightGBM,FR | Apples - All types and varieties,178,0.3757,0.0472,0.0621,0.0258,0.5225
+LightGBM,FR | Cauliflowers - All types and varieties,198,0.7948,0.2867,0.3736,0.2324,0.6162
+LightGBM,IT | Apples - All types and varieties,198,0.1977,0.0219,0.0323,0.0169,0.5556
+LightGBM,IT | Courgettes - All types and varieties,200,0.541,0.2097,0.282,0.0972,0.635
+LightGBM,IT | Cucumbers - All types and varieties,196,0.6469,0.2056,0.2659,0.1231,0.5663
+LightGBM,IT | Egg Plants - All types and varieties,200,0.9205,0.2811,0.4069,0.1622,0.66
+LightGBM,IT | Lemons - All types and varieties,200,0.4252,0.0841,0.1112,0.0419,0.64
+LightGBM,IT | Lettuces - All types and varieties,200,0.4739,0.1059,0.1476,0.0573,0.625
+LightGBM,IT | Peppers - All types and varieties,200,0.8579,0.324,0.42,0.1343,0.605
+LightGBM,IT | Tomatoes - Cherry/Special,200,0.7987,0.4078,0.6769,0.1193,0.645
+LightGBM,NL | Apples - All types and varieties,152,0.6314,0.1644,0.2147,0.123,0.5197
+LightGBM,NL | Pears - All types and varieties,186,0.5838,0.1362,0.21,0.0779,0.6022
+LightGBM,"NL | Tomatoes - Trusses=Vine/""Grappes""",200,0.839,0.2294,0.318,0.1274,0.595
+Naive,BE | Apples - All types and varieties,200,0.6215,0.1296,0.1736,0.1105,0.89
+Naive,BE | Cauliflowers - All types and varieties,174,0.8475,0.4515,0.5991,0.2562,0.9368
+Naive,BE | Pears - All types and varieties,196,0.3794,0.0953,0.1277,0.0937,0.9898
+Naive,BE | Strawberries - All types and varieties,200,1.0359,1.804,2.5141,0.1924,0.86
+Naive,BE | Tomatoes - Round,198,1.4702,0.4956,0.6925,0.2214,0.702
+Naive,DE | Apples - Jonagold,190,0.2118,0.0415,0.0699,0.0549,0.9105
+Naive,ES | Apples - Golden delicious,200,0.3996,0.0538,0.0722,0.0322,0.815
+Naive,ES | Cauliflowers - All types and varieties,188,0.8441,0.2007,0.255,0.1091,0.7394
+Naive,ES | Courgettes - All types and varieties,200,0.9137,0.3863,0.5816,0.3337,0.84
+Naive,ES | Cucumbers - All types and varieties,198,1.3434,0.3981,0.5233,0.2724,0.6919
+Naive,ES | Egg Plants - All types and varieties,200,1.2474,0.4735,0.6673,0.3175,0.75
+Naive,ES | Lemons - All types and varieties,186,0.5249,0.1456,0.283,0.0844,0.8763
+Naive,ES | Lettuces - All types and varieties,198,0.7951,0.2179,0.2992,0.1094,0.7879
+Naive,ES | Pears - All types and varieties,200,1.2113,0.1505,0.2223,0.0729,0.69
+Naive,ES | Peppers - All types and varieties,198,1.0562,0.2798,0.3574,0.1188,0.7071
+Naive,ES | Tomatoes - Round,198,1.2369,0.2881,0.3988,0.1862,0.702
+Naive,FR | Apples - All types and varieties,178,0.3615,0.0454,0.0643,0.0279,0.9551
+Naive,FR | Cauliflowers - All types and varieties,198,0.9198,0.3311,0.4369,0.2461,0.7929
+Naive,IT | Apples - All types and varieties,198,0.1351,0.015,0.0249,0.0184,0.9848
+Naive,IT | Courgettes - All types and varieties,200,0.6479,0.2508,0.3464,0.1148,0.92
+Naive,IT | Cucumbers - All types and varieties,196,0.8018,0.2551,0.3381,0.138,0.8776
+Naive,IT | Egg Plants - All types and varieties,200,1.1122,0.3401,0.4825,0.1786,0.84
+Naive,IT | Lemons - All types and varieties,200,0.3899,0.0771,0.1072,0.04,0.97
+Naive,IT | Lettuces - All types and varieties,200,0.5186,0.1158,0.1728,0.0634,0.9
+Naive,IT | Peppers - All types and varieties,200,0.9712,0.3668,0.4854,0.1423,0.685
+Naive,IT | Tomatoes - Cherry/Special,200,1.0671,0.5466,0.8963,0.1529,0.79
+Naive,NL | Apples - All types and varieties,152,0.6582,0.172,0.2326,0.1151,0.7763
+Naive,NL | Pears - All types and varieties,186,0.4707,0.1103,0.1739,0.0605,0.914
+Naive,"NL | Tomatoes - Trusses=Vine/""Grappes""",200,1.1057,0.3022,0.4221,0.1516,0.75
+SeasonalNaive,BE | Apples - All types and varieties,200,0.8985,0.1872,0.2242,0.1399,0.91
+SeasonalNaive,BE | Cauliflowers - All types and varieties,174,1.0958,0.5813,0.7823,0.3204,0.7931
+SeasonalNaive,BE | Pears - All types and varieties,196,0.8083,0.2021,0.2551,0.133,0.9184
+SeasonalNaive,BE | Strawberries - All types and varieties,200,0.8271,1.4379,1.942,0.1496,0.895
+SeasonalNaive,BE | Tomatoes - Round,198,1.157,0.3895,0.5011,0.1655,0.7121
+SeasonalNaive,DE | Apples - Jonagold,190,1.152,0.2284,0.2814,0.2327,0.6053
+SeasonalNaive,ES | Apples - Golden delicious,200,0.7938,0.1065,0.1326,0.0605,0.88
+SeasonalNaive,ES | Cauliflowers - All types and varieties,188,1.2827,0.3032,0.3762,0.1675,0.6702
+SeasonalNaive,ES | Courgettes - All types and varieties,200,0.9125,0.3845,0.5515,0.3401,0.895
+SeasonalNaive,ES | Cucumbers - All types and varieties,198,1.1413,0.3369,0.4448,0.2253,0.7828
+SeasonalNaive,ES | Egg Plants - All types and varieties,200,0.9975,0.3786,0.5122,0.2526,0.85
+SeasonalNaive,ES | Lemons - All types and varieties,186,1.3521,0.3759,0.4156,0.1421,0.7097
+SeasonalNaive,ES | Lettuces - All types and varieties,198,1.1564,0.3155,0.358,0.1363,0.8333
+SeasonalNaive,ES | Pears - All types and varieties,200,1.7091,0.2099,0.2657,0.0939,0.585
+SeasonalNaive,ES | Peppers - All types and varieties,198,1.2475,0.3302,0.4101,0.1454,0.7121
+SeasonalNaive,ES | Tomatoes - Round,198,1.4643,0.3393,0.4333,0.2069,0.7172
+SeasonalNaive,FR | Apples - All types and varieties,178,0.595,0.0746,0.0894,0.0415,0.9944
+SeasonalNaive,FR | Cauliflowers - All types and varieties,198,1.2483,0.446,0.5666,0.3288,0.7121
+SeasonalNaive,IT | Apples - All types and varieties,198,0.3809,0.0424,0.0523,0.0415,1.0
+SeasonalNaive,IT | Courgettes - All types and varieties,200,0.7771,0.2999,0.3575,0.1301,0.98
+SeasonalNaive,IT | Cucumbers - All types and varieties,196,1.0261,0.3251,0.3968,0.1716,0.8061
+SeasonalNaive,IT | Egg Plants - All types and varieties,200,0.9185,0.2802,0.4037,0.1553,0.865
+SeasonalNaive,IT | Lemons - All types and varieties,200,0.9913,0.1957,0.2179,0.0834,0.95
+SeasonalNaive,IT | Lettuces - All types and varieties,200,0.7015,0.156,0.1927,0.0828,0.95
+SeasonalNaive,IT | Peppers - All types and varieties,200,1.0243,0.3856,0.4709,0.1409,0.775
+SeasonalNaive,IT | Tomatoes - Cherry/Special,200,1.0288,0.5226,0.7773,0.1442,0.815
+SeasonalNaive,NL | Apples - All types and varieties,152,1.3308,0.348,0.4214,0.2176,0.6579
+SeasonalNaive,NL | Pears - All types and varieties,186,0.9191,0.2138,0.286,0.1076,0.7204
+SeasonalNaive,"NL | Tomatoes - Trusses=Vine/""Grappes""",200,0.953,0.2598,0.3535,0.134,0.88
