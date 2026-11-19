@@ -84,13 +84,26 @@ Notes:
 | Naive | 0.809 | 0.297 |
 | Seasonal Naive | 1.028 | 0.333 |
 
-Chronos-2 without any training on our data is the most accurate overall, with ARIMA close behind (per horizon the difference is only significant at 7 weeks ahead). Fine-tuning Chronos-2 on our data made it worse.
+Chronos-2 without any training on our data is the most accurate overall, with ARIMA close behind. Chronos-2 is better than ARIMA on 21 of the 29 series (sign test p = 0.024) and at 20 of the 25 origins, but per horizon the Diebold-Mariano difference is only significant at 7 weeks ahead (Holm correction), and at no horizon when the test uses a lag order that fits the 4 weeks between origins (`results/tables/extra_stats.csv`). Fine-tuning Chronos-2 on our data made it worse. Chronos-2 was released in October 2025, during the test period, so it may have seen some of these public prices; on the 12 origins after its release it is still the best model (MASE 0.687 vs 0.720 for ARIMA, `results/tables/rq1_after_chronos_release.csv`).
 
 **RQ2: weather.** Adding weather did not help: MASE 0.701 without weather, 0.714 with weather, 0.702 with only 3 weather features. Even the "oracle" version that uses the real future weather was not better (0.702).
 
 **RQ3: product type and horizon.** The product matters more than the model: storable products (apples, pears, lemons) are the easiest (best MASE 0.43) and greenhouse vegetables the hardest (0.78). One week ahead all reasonable models are almost equal, the differences grow with the horizon. See `results/tables/metrics_rq3_by_type.csv`, `wins_by_type.csv` and `results/figures/rq3_heatmap_series.png`.
 
 **RQ4: assistant.** On 100 buyer questions the assistant with tools gave 99% correct answers, the same model without tools 9% (35% wrong answers, 56% no answer). McNemar test p < 0.001. The whole run cost about $0.07.
+
+## Reproducibility
+
+- Steps 2, 3, 7, 9, 10, 11 and 13 give exactly the same tables as the ones in `results/tables/` when they are run again (checked on 20 Nov 2026).
+- Steps 5 and 6 refit every model at all 25 origins (step 5 takes about 8 minutes, step 6 about 15 minutes on a MacBook with an M4 chip). LightGBM and N-BEATS use fixed random seeds. The fine-tuning of Chronos-2 has no fixed seed and runs on the Apple GPU, so a new fine-tuning run can give slightly different numbers for "Chronos-2 fine-tuned".
+- Step 12 calls the OpenAI API, so new answers can be a bit different. `python -m src.assistant.evaluate --score-only` scores the saved answers again without the API and gives the same result.
+- The data is the snapshot downloaded on 31 October 2026. The EU portal keeps adding weeks, so a new download (step 1) gives more recent data than this study used.
+
+## Data sources and licences
+
+- Prices: European Commission, EU Agri-food Data Portal, fruit and vegetables prices (supply chain), https://agridata.ec.europa.eu. Reused with attribution under the reuse policy of the European Commission (Decision 2011/833/EU).
+- Weather: Weather data by Open-Meteo.com (https://open-meteo.com), licensed under CC BY 4.0, based on ERA5 reanalysis data from the Copernicus Climate Change Service (C3S).
+- Forecasting model: Chronos-2 (`amazon/chronos-2`) from Hugging Face, used as published.
 
 ## Folders
 

@@ -41,7 +41,7 @@ REFUSAL = ["don't have", "do not have", "not available", "no data", "cannot prov
 # ---------- scoring ----------
 
 def numbers(text):
-    t = text.replace(" ", " ")
+    t = text.replace("\u202f", " ")   # the model sometimes writes a narrow space inside numbers, make it a normal space
     t = re.sub(r"\d{4}-\d{2}-\d{2}", " ", t)                                   # dates
     t = re.sub(r"\b\d+\s*(weeks?|days?|months?|years?)\b", " ", t, flags=re.I)  # "4 weeks"
     t = re.sub(r"\bweek\s*\d+\b", " ", t, flags=re.I)                          # "week 23"

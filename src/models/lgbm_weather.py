@@ -29,6 +29,7 @@ from lightgbm import LGBMRegressor
 
 from src.features.weather import SERIES_REGION, load_weekly
 
+# hide library warnings (deprecation notes) so the run output stays readable, they do not change the results
 warnings.filterwarnings("ignore")
 
 H = 8

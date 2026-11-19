@@ -17,6 +17,7 @@ import pandas as pd
 from statsforecast import StatsForecast
 from statsforecast.models import MSTL, AutoARIMA, AutoETS, Naive, SeasonalNaive
 
+# hide library warnings (deprecation notes) so the run output stays readable, they do not change the results
 warnings.filterwarnings("ignore")
 
 FREQ = "W-MON"

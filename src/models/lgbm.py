@@ -18,6 +18,7 @@ from mlforecast.lag_transforms import RollingMean
 from mlforecast.target_transforms import LocalStandardScaler
 from mlforecast.utils import PredictionIntervals
 
+# hide library warnings (deprecation notes) so the run output stays readable, they do not change the results
 warnings.filterwarnings("ignore")
 
 FREQ = "W-MON"

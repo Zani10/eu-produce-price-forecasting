@@ -16,6 +16,7 @@ import pandas as pd
 import torch
 from chronos import Chronos2Pipeline
 
+# hide library warnings (deprecation notes) so the run output stays readable, they do not change the results
 warnings.filterwarnings("ignore")
 
 MODEL_ID = "amazon/chronos-2"
