@@ -28,6 +28,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
 
 from src.evaluation.backtest import STEP, load_data, make_origins, run_model  # noqa: E402
+from src.evaluation.dm_test import holm  # noqa: E402
 from src.evaluation.metrics import add_errors, summarize  # noqa: E402
 from src.models.lgbm_weather import (ORACLE_FEATURES, PRICE_FEATURES, WEATHER_FEATURES, WEATHER_LIGHT,  # noqa: E402
                                      build_table, make_model)  # noqa: E402
@@ -80,7 +81,10 @@ def compare(res, a, b):
     mean, dm, p = dm_test(per_origin, q=1)
     rows.append({"model": a, "vs": b, "h": "all", "mase_a": piv[a].mean(), "mase_b": piv[b].mean(),
                  "improvement_pct": 100 * (piv[b].mean() - piv[a].mean()) / piv[b].mean(), "dm": dm, "p_value": p})
-    return pd.DataFrame(rows)
+    out = pd.DataFrame(rows)
+    # Holm correction over the 9 tests of this comparison (8 horizons + all), same idea as in RQ1
+    out["p_holm"] = holm(out["p_value"])
+    return out
 
 
 def main():

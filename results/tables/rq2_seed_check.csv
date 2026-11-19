@@ -1,0 +1,10 @@
+seed,model,MASE,change_vs_prices_only_pct
+42,LGBM-direct,0.7014,0.0
+42,LGBM-direct+weather,0.7136,1.7394
+42,LGBM-direct+weather-light,0.7021,0.0998
+1,LGBM-direct,0.7014,0.0
+1,LGBM-direct+weather,0.7088,1.0559
+1,LGBM-direct+weather-light,0.7016,0.0226
+2,LGBM-direct,0.6978,0.0
+2,LGBM-direct+weather,0.6988,0.1483
+2,LGBM-direct+weather-light,0.7032,0.7831
