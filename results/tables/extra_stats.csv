@@ -1,0 +1,25 @@
+check,value,note
+series where Chronos-2 beats ARIMA,21.0,of 29
+sign test p (two-sided),0.0241,
+origins where Chronos-2 beats ARIMA,20.0,of 25
+share of MASE variation from the series (%),88.4,"7 models, 29 series"
+share of MASE variation from the model (%),3.7,"7 models, 29 series"
+"Chronos-2 vs ARIMA, before release: % lower MASE",5.1,"13 origins, MASE 0.577 vs 0.608"
+"fine-tuned vs zero-shot, before release: % higher MASE",15.5,MASE 0.666 vs 0.577
+"Chronos-2 vs ARIMA, after release: % lower MASE",4.5,"12 origins, MASE 0.687 vs 0.720"
+"fine-tuned vs zero-shot, after release: % higher MASE",7.1,MASE 0.736 vs 0.687
+DM lag ceil(h/4)-1: significant horizons vs ARIMA,0.0,unadjusted p<0.05 at 5 horizons
+DM lag ceil(h/4)-1: significant horizons vs Chronos2-FT,4.0,unadjusted p<0.05 at 7 horizons
+DM lag ceil(h/4)-1: significant horizons vs ETS,2.0,unadjusted p<0.05 at 8 horizons
+DM lag ceil(h/4)-1: significant horizons vs LightGBM,7.0,unadjusted p<0.05 at 8 horizons
+DM lag ceil(h/4)-1: significant horizons vs NBEATS,5.0,unadjusted p<0.05 at 8 horizons
+DM lag ceil(h/4)-1: significant horizons vs Naive,6.0,unadjusted p<0.05 at 7 horizons
+DM lag ceil(h/4)-1: significant horizons vs SeasonalNaive,8.0,unadjusted p<0.05 at 8 horizons
+Chronos-2 relative MAE at h=1 (% of price),9.1,
+Chronos-2 relative MAE at h=4 (% of price),15.3,
+Chronos-2 relative MAE at h=8 (% of price),17.4,
+"Chronos-2 relative MAE, all horizons (% of price)",15.1,
+MASE scale BE pears (EUR/kg),0.251,
+MASE scale ES pears (EUR/kg),0.123,
+MASE scale NL pears (EUR/kg),0.234,
+RQ2: significant tests with Holm over all 27 tests,0.0,smallest adjusted p 0.059

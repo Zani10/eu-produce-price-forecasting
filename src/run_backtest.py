@@ -7,6 +7,7 @@
 #   results/tables/metrics_day4_overall.csv    = one row per model
 #   results/tables/metrics_day4_by_h.csv       = per model and horizon (1 to 8 weeks)
 #   results/tables/metrics_day4_by_series.csv  = per model and series
+# (day4 / day5 in the file names: first part of the backtest = these models, second part = N-BEATS and Chronos-2)
 
 import time
 from pathlib import Path

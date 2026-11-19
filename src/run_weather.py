@@ -3,7 +3,7 @@
 # Run from the project folder:  python -m src.run_weather
 #
 # Same exam as the other models (same 25 origins, horizons 1-8, only real weeks scored, same MASE scale).
-# Three versions of the same direct LightGBM (see src/models/lgbm_weather.py):
+# Four versions of the same direct LightGBM (see src/models/lgbm_weather.py):
 #   LGBM-direct            = prices only (the fair comparison)
 #   LGBM-direct+weather    = + weather known at the forecast origin (no leakage)
 #   LGBM-direct+weather-light = + only 3 weather features (check if fewer features work better)

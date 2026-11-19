@@ -8,6 +8,9 @@
 # account with the autocovariances of d up to lag h-1, and the Harvey, Leybourne and Newbold (1997)
 # small-sample correction. We run the test per horizon. Inside one horizon we first average d over the
 # 29 series per origin, so we get one value per origin (25 values) in time order.
+# Note: lag h-1 assumes a new origin every week. Our origins are 4 weeks apart, so this is a conservative
+# choice. The weather test (src/run_weather.py) uses ceil(h/4)-1 lags, and src/check_extra_stats.py repeats
+# this RQ1 test with ceil(h/4)-1 lags (Chronos-2 vs ARIMA is still not significant after Holm).
 
 import numpy as np
 from scipy import stats

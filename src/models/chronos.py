@@ -1,7 +1,8 @@
 # Chronos-2: a pre-trained "foundation model" for time series (Amazon, chronos-forecasting library).
 #
-# Zero-shot  : we use the model as it is. It never saw our prices during its training, it just
-#              reads our history and forecasts the next 8 weeks.
+# Zero-shot  : we use the model as it is, we do not train it on our prices. It just reads our history
+#              and forecasts the next 8 weeks. The model was released in Oct 2025, during our test window,
+#              so public EU prices could be in its training data (see src/check_chronos_release.py).
 # Fine-tuned : we train the model a little more on OUR data first. To keep it cheap and without leakage,
 #              we fine-tune once, only on the data before the first test origin (21 Oct 2024),
 #              and then use that same fine-tuned model at every origin.

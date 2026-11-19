@@ -14,7 +14,7 @@
 # Prices are divided by the series' "level" (average of the last 13 weeks at week t), so cheap and expensive
 # products look the same to the model. The prediction is multiplied back by the level at the origin.
 #
-# Three versions:
+# Four versions:
 #   no weather : price features only (the fair baseline for this experiment)
 #   weather    : price features + weather known at the origin (lags, averages, anomalies)
 #   weather-light: price features + only 3 weather features (temperature and rain anomaly, coldest night)

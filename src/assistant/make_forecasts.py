@@ -1,6 +1,7 @@
 # Make the "current" forecasts that the assistant uses.
 # We stand at the last week of our frozen data (week of 19 Oct 2026) and forecast 1 to 8 weeks ahead
-# for all 29 series with ARIMA, the best model of the backtest on day 4.
+# for all 29 series with ARIMA, the best classic model of the backtest (Chronos-2 was best overall,
+# but its results came later; ARIMA is very close, fast and needs no GPU).
 # Output: results/tables/current_forecasts.csv  (one row per series per week ahead)
 
 from pathlib import Path
